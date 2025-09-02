@@ -8,7 +8,7 @@ public class Ex6 {
     int[] a = new int[10];
     int aux;
 
-    for(int i = 0; i < a.lenght; i++){
+    /*for(int i = 0; i < a.lenght; i++){
         aux = rd.nextInt(100);
         System.out.print(a[i] + " ");
     }
@@ -22,6 +22,6 @@ public class Ex6 {
             }
         }
     }
-
+*/
 
 }

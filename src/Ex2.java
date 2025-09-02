@@ -1,6 +1,5 @@
 //exercicio 3 nas apostilas
 
-import java.sql.SQLOutput;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
